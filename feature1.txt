@@ -1,3 +1,7 @@
 add this in feature1
 
+<<<<<<< HEAD
 我添加了一些东西在master
+=======
+我修改了从feature1保存的文件
+>>>>>>> feature1
